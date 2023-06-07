@@ -3,4 +3,4 @@ pandas
 scikit-learn
 streamlit
 matplotlib
-seaborn
+seaborn==0.11.2
